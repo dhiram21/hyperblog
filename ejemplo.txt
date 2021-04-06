@@ -4,4 +4,6 @@ en un archivo de texto plano
 
 hecho en un editor de texto
 
-esta es una una modificacion para validar el nuevo cambio luego de regresar la versión
+esta es una una modificacion para validar el nuevo cambio luego de regresar la versión.
+
+y volvemos a realizar un cambio al archivo
