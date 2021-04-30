@@ -6,6 +6,8 @@ hecho en un editor de texto
 
 esta es una una modificacion para validar el nuevo cambio luego de regresar la versión.
 
+Un usuario nuevo modifico este archivo.
+
 y volvemos a realizar un cambio al archivo
 
 este es un cambio de version pero sin poder regresar a una version más reciente.
