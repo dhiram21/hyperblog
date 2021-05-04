@@ -10,4 +10,6 @@ Un usuario nuevo modifico este archivo.
 
 y volvemos a realizar un cambio al archivo
 
+Master 1.
+
 este es un cambio de version pero sin poder regresar a una version más reciente.
