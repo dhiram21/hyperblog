@@ -1,5 +1,5 @@
 body {
-    background: #fafbfc;
+    background: rgb(20, 20, 20);
     color:#333;
     text-align: center;
     font-family: Arial;
@@ -32,6 +32,7 @@ body {
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+    background-color:#DDD;
 }
 
 #containter h1 {
