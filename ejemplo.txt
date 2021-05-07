@@ -10,4 +10,12 @@ Un usuario nuevo modifico este archivo.
 
 y volvemos a realizar un cambio al archivo
 
+Experimento 1.
+
+Experimento 2.
+
+Master 1.
+
+Master 2.
+
 este es un cambio de version pero sin poder regresar a una version más reciente.
